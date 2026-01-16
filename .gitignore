@@ -1,0 +1,20 @@
+# Ambiente virtual
+venv/
+
+# Chrome / Selenium
+chrome/
+__pycache__/
+*.log
+*.png
+
+# Variáveis sensíveis
+.env
+
+# systemd
+*.service
+
+# VSCode
+.vscode/
+
+# Python
+*.pyc
